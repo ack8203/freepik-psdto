@@ -1,0 +1,103 @@
+:root{
+    font-family: Raleway;
+
+}
+#header{
+    background-color: #719484;
+    width: 100%;
+    height: 641px;
+}
+
+.ust-menu{
+    width: 1000px;
+    height: 48px;
+    margin: auto;
+    font-family: "Raleway SemiBold";
+    padding-top:62px ;
+
+}
+
+.ust-menu li{
+    list-style-type: none;
+    float: left;
+    padding-bottom: 20px;
+
+}
+.ust-menu a{
+    text-decoration: none;
+    color:white;
+    padding-right: 36px;
+}
+.menu{
+    float: right;
+    margin-left: 7px;
+
+}
+
+.logo span{
+    font-family: "Raleway ExtraBold";
+    font-size: 40px;
+    color:white;
+
+}
+
+.alt-menu{
+    width: 1000px;
+    margin: auto;
+
+}
+.yazılar{
+    float: right;
+    width: 213px;
+    padding-right: 222px;
+    padding-top: 90px;
+
+}
+.yazı{
+    font-family: "Raleway Thin";
+    color:white;
+    font-size:40px
+}
+.yazı3{
+    font-family: "Raleway ExtraBold";
+}
+.yazı2{
+    color:white;
+    padding-top: 10px;
+    width: 355px;
+}
+.ıcerık{
+   float: left;
+    padding-top: 90px;
+}
+.pc1{
+    padding-left: 113px;
+}
+.soloks{
+    padding-bottom: 60px;
+}
+.sagoks{
+    float: right;
+    padding-top: 175px;
+}
+.header-foot{
+    background-color: #4c4a46;
+    height: 127px;
+    width: 100%;
+}
+.foot-yazı{
+    color:white;
+    font-family: "Raleway ExtraBold";
+    font-size: 35px;
+    padding-left: 370px;
+    padding-top: 30px;
+
+
+}
+.foot-yazı2{
+    padding-left: 465px;
+    color:white;
+    font-family: "Raleway Light";
+    padding-top: 15px;
+
+}
