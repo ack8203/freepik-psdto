@@ -91,13 +91,13 @@
     color:white;
     font-family: "Raleway ExtraBold";
     font-size: 35px;
-    padding-left: 370px;
+    padding-left: 390px;
     padding-top: 30px;
 
 
 }
 .foot-yazı2{
-    padding-left: 465px;
+    padding-left: 475px;
     color:white;
     font-family: "Raleway Light";
     padding-top: 15px;
@@ -107,7 +107,7 @@
 #content{
     width:100%;
     height:1375px;
-    background-color: #fafdfc;
+    background-color: #ffffff;
     padding-left: 50px;
 }
 .ust-content{
@@ -121,7 +121,7 @@
 }
 .ı1,.ı2,.ı3,.ı4{
     float:left;
-    padding-left: 60px;
+    padding-left: 72px;
     height: 261px;
     width: 215px;
 
@@ -143,7 +143,7 @@
     width: 219px;
     height: 96px;
     float: left;
-    padding-left:60px ;
+    padding-left:72px ;
 
 
 }
@@ -165,7 +165,7 @@
 }
 
 .alt-content{
-    background-color:#fafdfc;
+    background-color:#ffffff;
     height: 1400px;
     width:1050px;
     margin: auto;
@@ -197,7 +197,7 @@ position: absolute;
     padding-top: 180px;
 }
 .alt-content2{
-    height: 1100px;
+    height: 980px;
     width:1700px;
     margin: auto;
     position: absolute;
@@ -232,4 +232,44 @@ position: absolute;
     color:#706b67;
     padding-top: 12px;
 
+}
+
+.pop{
+    background-color: #4c4a46;
+    width: 100%;
+    height: 391px;
+
+}
+.img,.yazım{
+    margin: auto;
+    float: left;
+}
+
+.img{
+    padding-left:300px;
+    padding-top: 50px;
+}
+.yazım{
+    padding-left: 50px;
+    padding-top: 80px;
+    width: 410px;
+}
+.yazım span{
+    font-family: "Raleway ExtraBold";
+    color:white;
+    font-size: 30px;
+}
+
+.yazım p{
+    padding-top: 15px;
+    color:white;
+}
+.yazım button{
+    margin-top: 20px;
+    border-radius: 10px;
+    background-color: #67b3c6;
+    color:White;
+    height: 30px;
+    font-family: "Raleway Light";
+    font-size: 12px;
 }
