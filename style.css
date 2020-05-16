@@ -273,3 +273,7 @@ position: absolute;
     font-family: "Raleway Light";
     font-size: 12px;
 }
+.alt-resım img:hover
+{
+    background-image:url("img/hov.png");
+}
